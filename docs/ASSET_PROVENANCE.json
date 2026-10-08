@@ -1,0 +1,58 @@
+[
+  {
+    "source_archive": "WhatsApp Unknown 2026-10-08 at 3.32.48 PM.zip",
+    "archive_member": "WhatsApp Image 2026-10-08 at 3.32.33 PM.jpeg",
+    "destination": "docs/images/microscope-monitor.jpeg",
+    "sha256": "d8346ba450322ec27708e291a785f804313d1fddaffd899e920acd17f2eb8503",
+    "changes": "None; original photograph copied under a descriptive filename."
+  },
+  {
+    "source_archive": "WhatsApp Unknown 2026-10-08 at 3.32.48 PM.zip",
+    "archive_member": "WhatsApp Image 2026-10-08 at 3.32.33 PM (1).jpeg",
+    "destination": "docs/images/probe-contact-detail.jpeg",
+    "sha256": "4e4f15b0247cea7f75492d4481930054887fd443ce3bf82ee5aba2f8d04ba5f0",
+    "changes": "None; original photograph copied under a descriptive filename."
+  },
+  {
+    "source_archive": "WhatsApp Unknown 2026-10-08 at 3.32.48 PM.zip",
+    "archive_member": "WhatsApp Image 2026-10-08 at 3.32.33 PM (2).jpeg",
+    "destination": "docs/images/mpi-probe-station.jpeg",
+    "sha256": "62236c1e9c8222788502ec2eb3895a226d56c52990dd6bd512b4c62e6f1f28e0",
+    "changes": "None; original photograph copied under a descriptive filename."
+  },
+  {
+    "source_archive": "WhatsApp Unknown 2026-10-08 at 3.32.48 PM.zip",
+    "archive_member": "WhatsApp Image 2026-10-08 at 3.32.33 PM (3).jpeg",
+    "destination": "docs/images/optical-contact-view.jpeg",
+    "sha256": "479d0c1355442a4a0df35f1e3b0d717974563ee527147f7d2095d9026d7a6966",
+    "changes": "None; original photograph copied under a descriptive filename."
+  },
+  {
+    "source_archive": "WhatsApp Unknown 2026-10-08 at 3.32.48 PM.zip",
+    "archive_member": "WhatsApp Image 2026-10-08 at 3.32.33 PM (4).jpeg",
+    "destination": "docs/images/keysight-b1500a-results.jpeg",
+    "sha256": "12456504d509b8bef01d2c231cb14b431481bb949f1907fe84cfc4d110f939cb",
+    "changes": "None; original photograph copied under a descriptive filename."
+  },
+  {
+    "source_archive": "WhatsApp Unknown 2026-10-08 at 3.32.48 PM.zip",
+    "archive_member": "WhatsApp Image 2026-10-08 at 3.32.34 PM.jpeg",
+    "destination": "docs/images/cleanroom-gowning.jpeg",
+    "sha256": "ca7586da5b498c92f76fe4ee94a2d40dfb481da095d65c1c6d73226bcd21066e",
+    "changes": "None; original photograph copied under a descriptive filename."
+  },
+  {
+    "source_archive": "WhatsApp Unknown 2026-10-08 at 3.32.48 PM.zip",
+    "archive_member": "WhatsApp Image 2026-10-08 at 3.32.34 PM (1).jpeg",
+    "destination": "docs/images/cleanroom-lab-environment.jpeg",
+    "sha256": "e1ae168303d120fcae640464519afe8736e46becdf80693b6ea541b649ac8d28",
+    "changes": "None; original photograph copied under a descriptive filename."
+  },
+  {
+    "source_archive": "WhatsApp Unknown 2026-10-08 at 3.32.48 PM.zip",
+    "archive_member": "WhatsApp Image 2026-10-08 at 3.32.34 PM (2).jpeg",
+    "destination": "docs/images/cleanroom-attire.jpeg",
+    "sha256": "b42b27cac9738531e2cbe7e2e44ec7cb5d1bf9f2ff2046e7752fdd0bf08ba5a7",
+    "changes": "None; original photograph copied under a descriptive filename."
+  }
+]
