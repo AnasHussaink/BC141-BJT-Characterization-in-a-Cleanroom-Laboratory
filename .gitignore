@@ -6,3 +6,11 @@ __pycache__/
 Thumbs.db
 .DS_Store
 data/private/
+
+# Local validation and build output
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.pio/
+build/

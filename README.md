@@ -162,3 +162,10 @@ BJT-Device-Characterization-Lab/
 - [License and attribution](LICENSE-NOTICE.md)
 
 Photographs retain their original content. The analyzer image includes an interlock warning label; it records the session and is not an instruction to reproduce that configuration. Follow the laboratory's approved equipment procedures.
+
+
+## Development and quality
+
+[![Repository quality](https://github.com/AnasHussaink/BC141-BJT-Characterization-in-a-Cleanroom-Laboratory/actions/workflows/quality.yml/badge.svg)](https://github.com/AnasHussaink/BC141-BJT-Characterization-in-a-Cleanroom-Laboratory/actions/workflows/quality.yml)
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for branch/PR workflow, local checks and CI coverage.
