@@ -169,3 +169,7 @@ Photographs retain their original content. The analyzer image includes an interl
 [![Repository quality](https://github.com/AnasHussaink/BC141-BJT-Characterization-in-a-Cleanroom-Laboratory/actions/workflows/quality.yml/badge.svg)](https://github.com/AnasHussaink/BC141-BJT-Characterization-in-a-Cleanroom-Laboratory/actions/workflows/quality.yml)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for branch/PR workflow, local checks and CI coverage.
+
+## Technical scope
+
+Semiconductor device characterization: BC141 bipolar junction transistor (BJT), cleanroom probing, MPI probe station, Keysight B1500A and EasyEXPERT measurement workflow.
